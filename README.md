@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 ## Programming Languages and frameworks
-- C++:  Qt (Desktop application development), OpenMP (Parallel computing), MPI (Distributed computing), ROS (Robotics), CMake (build tool), Conan (Package manager)
-- Python: numpy, pandas, matplotlib, OpenCV and PyTorch (ML/AI); FastAPI (Backend development); ROS (Robotics)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="17rem">C++:  Qt (Desktop application development), OpenMP (Parallel computing), MPI (Distributed computing), ROS (Robotics), CMake (build tool), Conan (Package manager)
+- <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="17rem"> Python: numpy, pandas, matplotlib, OpenCV and PyTorch (ML/AI); FastAPI (Backend development); ROS (Robotics)
 - Javascript/Typescript: Angular and React
 - <img class="inline-logo" src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-32x32-blk.png?raw=true" height="17rem"> Rust: Basic familiarity
 - MATLAB: Basic familiarity
