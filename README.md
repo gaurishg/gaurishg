@@ -1,88 +1,5 @@
 # Hi there, Gaurish here 👋
 
-<style>
-img.inline-logo {
-    height: 15px
-}
-
-h1 {
-  color: #ff0000;
-  font-family: sans-serif;
-  font-size: 3em;
-  font-weight: bold;
-  line-height: 1.2;
-  margin: 0 0 .5em;
-}
-
-h2 {
-  color: #6677ff;
-  font-family: sans-serif;
-  font-size: 2.4em;
-  font-weight: bold;
-  line-height: 1.2;
-  margin: 1.5em 0 0 0;
-}
-
-h3 {
-  color: #00ff00;
-  font-family: sans-serif;
-  font-size: 1.5em;
-  font-weight: bold;
-  line-height: 1.2;
-  margin: 1em 0 0 0;
-}
-
-h4 {
-  color: #800080;
-  font-family: sans-serif;
-  font-size: 1em;
-  font-weight: bold;
-  line-height: 1.2;
-  margin: 0.5em 0 0 0;
-}
-
-h5 {
-  color: #008000;
-  font-family: sans-serif;
-  font-size: .8em;
-  font-weight: bold;
-  line-height: 1.2;
-  margin: 0 0 .5em;
-}
-
-h6 {
-  color: #808000;
-  font-family: sans-serif;
-  font-size: .6em;
-  font-weight: bold;
-  line-height: 1.2;
-  margin: 0 0 .5em;
-}
-
-ul {
-  list-style-type: none;
-  padding-left: 0.5em;
-  left-padding: 5;
-  margin: 0;
-}
-
-ul li {
-  /* background-color: #eee; */
-  /* border: 1px solid #ccc; */
-  padding: .2em;
-  /* margin-bottom: 10px; */
-}
-
-ul li:hover {
-  background-color: #555;
-  /* cursor: pointer; */
-}
-
-a {
-    background: #222
-}
-</style>
-
 
 <!--
 **gaurishg/gaurishg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -106,10 +23,10 @@ Here are some ideas to get you started:
 
 
 ## Programming Languages and frameworks
-- <img alt="C++" class="inline-logo" src="https://github.com/isocpp/logos/raw/master/cpp_logo.png"> C++:  Qt (Desktop application development), OpenMP (Parallel computing), MPI (Distributed computing), ROS (Robotics), CMake (build tool), Conan (Package manager)
-- <img class="inline-logo" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"> Python: numpy, pandas, matplotlib, OpenCV and PyTorch (ML/AI); FastAPI (Backend development); ROS (Robotics)
-- <img class="inline-logo" src="https://www.britefish.net/wp-content/uploads/2019/06/logo-javascript-2.png">/<img class="inline-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> Javascript/Typescript: Angular and React
-- <img class="inline-logo" src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-32x32-blk.png?raw=true"> Rust: Basic familiarity
+- C++:  Qt (Desktop application development), OpenMP (Parallel computing), MPI (Distributed computing), ROS (Robotics), CMake (build tool), Conan (Package manager)
+- Python: numpy, pandas, matplotlib, OpenCV and PyTorch (ML/AI); FastAPI (Backend development); ROS (Robotics)
+- Javascript/Typescript: Angular and React
+- <img class="inline-logo" src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-32x32-blk.png?raw=true" height="17rem"> Rust: Basic familiarity
 - MATLAB: Basic familiarity
 
 ## Projects
